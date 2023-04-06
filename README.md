@@ -20,7 +20,7 @@
 - Ensino Superior: Análise e Desenvolvimento de Sistemas - UNIMAR
 - Cursos: Web Programador e Designer Gráfico - MegaEasy
 - Curso: Digitalização
-
+- Curso: Web design
 ---
 
 # EXPERIÊNCIAS:
@@ -37,6 +37,5 @@
 - Inglês intermediário
 - Espanhol básico
 - Boa comunicação;
-- Autonomia;
 - Resiliência.
 
